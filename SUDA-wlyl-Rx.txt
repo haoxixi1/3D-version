@@ -1,0 +1,4 @@
+START
+Goal_ID=person;Num=2
+Goal_ID=chair;Num=1
+END
